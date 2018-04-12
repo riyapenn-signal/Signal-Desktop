@@ -31,7 +31,7 @@ still useful, but it doesn't support `.nvmrc` files.
 
 Then you need `git`, if you don't have that yet: https://git-scm.com/
 
-And for the final step before we actually get started, you'll need build tools to install
+After that, you'll need build tools to install
 the native modules used by the application. On Windows, it's easiest to open the [Command
 Prompt (`cmd.exe`) as Administrator](https://technet.microsoft.com/en-us/library/cc947813(v=ws.10).aspx)
 and run this:
